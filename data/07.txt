@@ -1,0 +1,234 @@
+
+	<!-- 中间 -->
+	<div class="row">
+	
+<div class="col left-column">
+	<div class="tab">HTML &#x6559;&#x7A0B;</div>
+	<div class="sidebar-box gallery-list">
+		<div class="design" id="leftcolumn">
+						<a target="_top" title="HTML &#x6559;&#x7A0B;" href="/html/html-tutorial.html">
+			HTML &#x6559;&#x7A0B;			</a>
+						<a target="_top" title="HTML &#x7B80;&#x4ECB;" href="/html/html-intro.html">
+			HTML &#x7B80;&#x4ECB;			</a>
+						<a target="_top" title="HTML &#x7F16;&#x8F91;&#x5668;" href="/html/html-editors.html">
+			HTML &#x7F16;&#x8F91;&#x5668;			</a>
+						<a target="_top" title="HTML &#x57FA;&#x7840;" href="/html/html-basic.html">
+			HTML &#x57FA;&#x7840;			</a>
+						<a target="_top" title="HTML &#x5143;&#x7D20;" href="/html/html-elements.html">
+			HTML &#x5143;&#x7D20;			</a>
+						<a target="_top" title="HTML &#x5C5E;&#x6027;" href="/html/html-attributes.html">
+			HTML &#x5C5E;&#x6027;			</a>
+						<a target="_top" title="HTML &#x6807;&#x9898;" href="/html/html-headings.html">
+			HTML &#x6807;&#x9898;			</a>
+						<a target="_top" title="HTML &#x6BB5;&#x843D;" href="/html/html-paragraphs.html">
+			HTML &#x6BB5;&#x843D;			</a>
+						<a target="_top" title="HTML &#x6587;&#x672C;&#x683C;&#x5F0F;&#x5316;" href="/html/html-formatting.html">
+			HTML &#x6587;&#x672C;&#x683C;&#x5F0F;&#x5316;			</a>
+						<a target="_top" title="HTML &#x94FE;&#x63A5;" href="/html/html-links.html">
+			HTML &#x94FE;&#x63A5;			</a>
+						<a target="_top" title="HTML &#x5934;&#x90E8;" href="/html/html-head.html">
+			HTML &#x5934;&#x90E8;			</a>
+						<a target="_top" title="HTML CSS" href="/html/html-css.html">
+			HTML CSS			</a>
+						<a target="_top" title="HTML &#x56FE;&#x50CF;" href="/html/html-images.html">
+			HTML &#x56FE;&#x50CF;			</a>
+						<a target="_top" title="HTML &#x8868;&#x683C;" href="/html/html-tables.html">
+			HTML &#x8868;&#x683C;			</a>
+						<a target="_top" title="HTML &#x5217;&#x8868;" href="/html/html-lists.html">
+			HTML &#x5217;&#x8868;			</a>
+						<a target="_top" title="HTML &#x533A;&#x5757;" href="/html/html-blocks.html">
+			HTML &#x533A;&#x5757;			</a>
+						<a target="_top" title="HTML &#x5E03;&#x5C40;" href="/html/html-layouts.html">
+			HTML &#x5E03;&#x5C40;			</a>
+						<a target="_top" title="HTML &#x8868;&#x5355;" href="/html/html-forms.html">
+			HTML &#x8868;&#x5355;			</a>
+						<a target="_top" title="HTML &#x6846;&#x67B6;" href="/html/html-iframes.html">
+			HTML &#x6846;&#x67B6;			</a>
+						<a target="_top" title="HTML &#x989C;&#x8272;" href="/html/html-colors.html">
+			HTML &#x989C;&#x8272;			</a>
+						<a target="_top" title="HTML &#x989C;&#x8272;&#x540D;" href="/html/html-colornames.html">
+			HTML &#x989C;&#x8272;&#x540D;			</a>
+						<a target="_top" title="HTML &#x989C;&#x8272;&#x503C;" href="/html/html-colorvalues.html">
+			HTML &#x989C;&#x8272;&#x503C;			</a>
+						<a target="_top" title="HTML &#x811A;&#x672C;" href="/html/html-scripts.html">
+			HTML &#x811A;&#x672C;			</a>
+						<a target="_top" title="HTML &#x5B57;&#x7B26;&#x5B9E;&#x4F53;" href="/html/html-entities.html">
+			HTML &#x5B57;&#x7B26;&#x5B9E;&#x4F53;			</a>
+						<a target="_top" title="HTML URL" href="/html/html-url.html">
+			HTML URL			</a>
+						<a target="_top" title="HTML &#x901F;&#x67E5;&#x5217;&#x8868;" href="/html/html-quicklist.html">
+			HTML &#x901F;&#x67E5;&#x5217;&#x8868;			</a>
+						<a target="_top" title="HTML &#x603B;&#x7ED3;" href="/html/html-summary.html">
+			HTML &#x603B;&#x7ED3;			</a>
+						<a target="_top" title="XHTML &#x7B80;&#x4ECB;" href="/html/html-xhtml.html">
+			XHTML &#x7B80;&#x4ECB;			</a>
+			<br><h2 class="left"><span class="left_h2">HTML5</span></h2>			<a target="_top" title="HTML5 &#x6559;&#x7A0B;" href="/html/html5-intro.html">
+			HTML5 &#x6559;&#x7A0B;			</a>
+			<a target="_top" title="HTML5 &#x6D4F;&#x89C8;&#x5668;&#x652F;&#x6301;" href="html5-browsers.html"> HTML5 &#x6D4F;&#x89C8;&#x5668;&#x652F;&#x6301; </a>			<a target="_top" title="HTML5 &#x65B0;&#x5143;&#x7D20;" href="/html/html5-new-element.html">
+			HTML5 &#x65B0;&#x5143;&#x7D20;			</a>
+						<a target="_top" title="HTML5 Canvas" href="/html/html5-canvas.html">
+			HTML5 Canvas			</a>
+						<a target="_top" title="HTML5 &#x5185;&#x8054; SVG" href="/html/html5-svg.html">
+			HTML5 &#x5185;&#x8054; SVG			</a>
+			<a target="_top" title="HTML5 MathML" href="html5-mathml.html"> HTML5 MathML </a>			<a target="_top" title="HTML5 &#x62D6;&#x653E;" href="/html/html5-draganddrop.html">
+			HTML5 &#x62D6;&#x653E;			</a>
+						<a target="_top" title="HTML5 &#x5730;&#x7406;&#x5B9A;&#x4F4D;" href="/html/html5-geolocation.html">
+			HTML5 &#x5730;&#x7406;&#x5B9A;&#x4F4D;			</a>
+						<a target="_top" title="HTML5 Video(&#x89C6;&#x9891;)" href="/html/html5-video.html">
+			HTML5 Video(&#x89C6;&#x9891;)			</a>
+						<a target="_top" title="HTML5 Audio(&#x97F3;&#x9891;)" href="/html/html5-audio.html">
+			HTML5 Audio(&#x97F3;&#x9891;)			</a>
+						<a target="_top" title="HTML5 Input &#x7C7B;&#x578B;" href="/html/html5-form-input-types.html">
+			HTML5 Input &#x7C7B;&#x578B;			</a>
+						<a target="_top" title="HTML5 &#x8868;&#x5355;&#x5143;&#x7D20;" href="/html/html5-form-elements.html">
+			HTML5 &#x8868;&#x5355;&#x5143;&#x7D20;			</a>
+						<a target="_top" title="HTML5 &#x8868;&#x5355;&#x5C5E;&#x6027;" href="/html/html5-form-attributes.html">
+			HTML5 &#x8868;&#x5355;&#x5C5E;&#x6027;			</a>
+						<a target="_top" title="HTML5 &#x8BED;&#x4E49;&#x5143;&#x7D20;" href="/html/html5-semantic-elements.html">
+			HTML5 &#x8BED;&#x4E49;&#x5143;&#x7D20;			</a>
+						<a target="_top" title="HTML5 Web &#x5B58;&#x50A8;" href="/html/html5-webstorage.html">
+			HTML5 Web &#x5B58;&#x50A8;			</a>
+			<a target="_top" title="HTML5 Web SQL" href="html5-web-sql.html"> HTML5 Web SQL </a>			<a target="_top" title="HTML5 &#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x7F13;&#x5B58;" href="/html/html5-app-cache.html">
+			HTML5 &#x5E94;&#x7528;&#x7A0B;&#x5E8F;&#x7F13;&#x5B58;			</a>
+						<a target="_top" title="HTML5 Web Workers" href="/html/html5-webworkers.html">
+			HTML5 Web Workers			</a>
+						<a target="_top" title="HTML5 &#x670D;&#x52A1;&#x5668;&#x53D1;&#x9001;&#x4E8B;&#x4EF6;(Server-Sent Events)" href="/html/html5-serversentevents.html">
+			HTML5 SSE			</a>
+			<a target="_top" title="HTML5 WebSocket" href="/html/html5-websocket.html"> HTML5 WebSocket </a>
+<a target="_top" title="HTML5 &#x6D4B;&#x9A8C;" href="/quiz/html5-quiz.html"> HTML5 &#x6D4B;&#x9A8C; </a>
+<a target="_top" title="HTML(5) &#x4EE3;&#x7801;&#x89C4;&#x8303;" href="/html/html5-syntax.html">HTML(5) &#x4EE3;&#x7801;&#x89C4;&#x8303; </a>
+<br><h2 class="left"><span class="left_h2">HTML</span> &#x5A92;&#x4F53;</h2>			<a target="_top" title="HTML &#x5A92;&#x4F53;(Media)" href="/html/html-media.html">
+			HTML &#x5A92;&#x4F53;(Media)			</a>
+						<a target="_top" title="HTML &#x63D2;&#x4EF6;" href="/html/html-object.html">
+			HTML &#x63D2;&#x4EF6;			</a>
+						<a target="_top" title="HTML &#x97F3;&#x9891;(Audio)" href="/html/html-sounds.html">
+			HTML &#x97F3;&#x9891;(Audio)			</a>
+						<a target="_top" title="HTML&#x89C6;&#x9891;&#xFF08;Videos&#xFF09;&#x64AD;&#x653E;" href="/html/html-videos.html">
+			HTML&#x89C6;&#x9891;&#xFF08;Videos&#xFF09;&#x64AD;&#x653E;			</a>
+						<a target="_top" title="HTML &#x5B9E;&#x4F8B;" href="/html/html-examples.html">
+			HTML &#x5B9E;&#x4F8B;			</a>
+			<br><h2 class="left"><span class="left_h2">HTML</span> &#x53C2;&#x8003;&#x624B;&#x518C;</h2>
+<a target="_top" href="http://www.runoob.com/tags/html-reference.html">
+	HTML &#x6807;&#x7B7E;&#x5217;&#x8868;(&#x5B57;&#x6BCD;&#x6392;&#x5E8F;)	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-byfunc.html">
+	HTML &#x6807;&#x7B7E;&#x5217;&#x8868;&#xFF08;&#x529F;&#x80FD;&#x6392;&#x5E8F;&#xFF09;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-standardattributes.html">
+	HTML &#x5C5E;&#x6027;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-eventattributes.html">
+	HTML &#x4E8B;&#x4EF6;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-canvas.html">
+	HTML &#x753B;&#x5E03;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-av-dom.html">
+	HTML &#x97F3;&#x9891;/&#x89C6;&#x9891;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-elementsdoctypes.html">
+	HTML &#x6709;&#x6548;DOCTYPES	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-colorname.html">
+	HTML &#x989C;&#x8272;&#x540D;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-colorpicker.html">
+	HTML &#x62FE;&#x8272;&#x5668;	</a>
+		<a target="_top" href="/charsets/html-charsets.html">
+	HTML &#x5B57;&#x7B26;&#x96C6;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-ascii.html">
+	HTML ASCII	</a>
+		<a target="_top" href="http://www.runoob.com/tags/ref-entities.html">
+	HTML ISO-8859-1	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-symbols.html">
+	HTML &#x7B26;&#x53F7;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-urlencode.html">
+	HTML URL &#x7F16;&#x7801;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-language-codes.html">
+	HTML &#x8BED;&#x8A00;&#x4EE3;&#x7801;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-httpmessages.html">
+	HTTP &#x6D88;&#x606F;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-httpmethods.html">
+	HTTP &#x65B9;&#x6CD5;	</a>
+		<a target="_top" href="http://www.runoob.com/tags/html-keyboardshortcuts.html">
+	&#x952E;&#x76D8;&#x5FEB;&#x6377;&#x952E;	</a>	
+		</div>
+	</div>	
+</div>	<div class="col middle-column">
+		
+	
+	<div class="article">
+			<div class="article-heading-ad">
+		
+		<!-- 移动版 自动调整 -->
+		
+		
+		</div>
+		<div class="previous-next-links">
+			<div class="previous-design-link"> </div>
+			<div class="next-design-link"><a href="http://www.runoob.com/html/html-intro.html" rel="next"> HTML &#x7B80;&#x4ECB;</a> &#x2192;</div>
+		</div>
+		<div class="article-body">
+		
+			<div class="article-intro" id="content">
+			
+			<h1>HTML &#x6559;&#x7A0B;- <span class="color_h1">(HTML5 &#x6807;&#x51C6;)</span></h1>
+<div class="tutintro">
+
+<p>&#x60A8;&#x53EF;&#x4EE5;&#x4F7F;&#x7528; HTML &#x6765;&#x5EFA;&#x7ACB;&#x81EA;&#x5DF1;&#x7684; WEB &#x7AD9;&#x70B9;&#x3002;</p>
+<p>&#x5728;&#x672C;&#x6559;&#x7A0B;&#x4E2D;&#xFF0C;&#x60A8;&#x5C06;&#x5B66;&#x4E60;&#x5982;&#x4F55;&#x4F7F;&#x7528; HTML &#x6765;&#x521B;&#x5EFA;&#x7AD9;&#x70B9;&#x3002;</p>
+<p>HTML &#x5F88;&#x5BB9;&#x6613;&#x5B66;&#x4E60;&#xFF01;&#x76F8;&#x4FE1;&#x60A8;&#x80FD;&#x5F88;&#x5FEB;&#x5B66;&#x4F1A;&#x5B83;&#xFF01;</p>
+</div>
+
+<h2 class="tutheader">HTML &#x5B9E;&#x4F8B;</h2>
+<p>&#x672C;&#x6559;&#x7A0B;&#x5305;&#x542B;&#x4E86;&#x6570;&#x767E;&#x4E2A; HTML &#x5B9E;&#x4F8B;&#x3002;</p>
+<p>&#x4F7F;&#x7528;&#x672C;&#x7AD9;&#x7684;&#x7F16;&#x8F91;&#x5668;&#xFF0C;&#x60A8;&#x53EF;&#x4EE5;&#x8F7B;&#x677E;&#x5B9E;&#x73B0;&#x5728;&#x7EBF;&#x4FEE;&#x6539; HTML&#xFF0C;&#x5E76;&#x67E5;&#x770B;&#x5B9E;&#x4F8B;&#x8FD0;&#x884C;&#x7ED3;&#x679C;&#x3002;</p>
+<blockquote><p><strong>&#x6CE8;&#x610F;&#xFF1A;</strong>&#x5BF9;&#x4E8E;&#x4E2D;&#x6587;&#x7F51;&#x9875;&#x9700;&#x8981;&#x4F7F;&#x7528; <strong>&lt;meta charset=&quot;utf-8&quot;&gt;</strong> &#x58F0;&#x660E;&#x7F16;&#x7801;&#xFF0C;&#x5426;&#x5219;&#x4F1A;&#x51FA;&#x73B0;&#x4E71;&#x7801;&#x3002;</p></blockquote>
+<div class="example">
+<h2 class="example">&#x5B9E;&#x4F8B;</h2>
+<div class="example_code">
+<div class="hl-main"><span class="hl-brackets">&lt;</span><span class="hl-code">!</span><span class="hl-var">DOCTYPE</span><span class="hl-code"> </span><span class="hl-var">html</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;</span><span class="hl-reserved">html</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;</span><span class="hl-reserved">head</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;</span><span class="hl-reserved">meta</span><span class="hl-code"> </span><span class="hl-var">charset</span><span class="hl-code">=</span><span class="hl-quotes">&quot;</span><span class="hl-string">utf-8</span><span class="hl-quotes">&quot;</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;</span><span class="hl-reserved">title</span><span class="hl-brackets">&gt;</span><span class="hl-code">&#x83DC;&#x9E1F;&#x6559;&#x7A0B;(runoob.com)</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">title</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">head</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;</span><span class="hl-reserved">body</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+    </span><span class="hl-brackets">&lt;</span><span class="hl-reserved">h1</span><span class="hl-brackets">&gt;</span><span class="hl-code">&#x6211;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x6807;&#x9898;</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">h1</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+    </span><span class="hl-brackets">&lt;</span><span class="hl-reserved">p</span><span class="hl-brackets">&gt;</span><span class="hl-code">&#x6211;&#x7684;&#x7B2C;&#x4E00;&#x4E2A;&#x6BB5;&#x843D;&#x3002;</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">p</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">body</span><span class="hl-brackets">&gt;</span><span class="hl-code">
+</span><span class="hl-brackets">&lt;/</span><span class="hl-reserved">html</span><span class="hl-brackets">&gt;</span></div>
+</div>
+<br>
+<a target="_blank" href="/try/try.php?filename=tryhtml_intro" class="tryitbtn">&#x5C1D;&#x8BD5;&#x4E00;&#x4E0B; &#xBB;</a>
+<p>&#x70B9;&#x51FB; &quot;&#x5C1D;&#x8BD5;&#x4E00;&#x4E0B;&quot; &#x6309;&#x94AE;&#x67E5;&#x770B;&#x5728;&#x7EBF;&#x5B9E;&#x4F8B;</p>
+</div>
+
+<p><a href="/html/html-intro.html">&#x5F00;&#x59CB;&#x5B66;&#x4E60;HTML!</a></p>
+
+<h2 class="tutheader">HTML &#x5B9E;&#x4F8B;</h2>
+
+<p>&#x5728; HTML &#x624B;&#x518C;&#x4E2D;&#x5305;&#x542B;&#x4E86;&#x6570;&#x767E;&#x4E2A;&#x5728;&#x7EBF;&#x5B9E;&#x4F8B;&#xFF0C;&#x60A8;&#x53EF;&#x4EE5;&#x5728;&#x7EBF;&#x7F16;&#x8F91;&#x5E76;&#x67E5;&#x770B;&#x8FD0;&#x884C;&#x7ED3;&#x679C;&#x3002;</p>
+<p><a href="/html/html-examples.html" target="_blank">&#x67E5;&#x770B; HTML &#x5B9E;&#x4F8B;&#xFF01;</a></p>
+
+
+
+<h2 class="tutheader">HTML &#x53C2;&#x8003;&#x624B;&#x518C;</h2>
+<p>&#x5728;&#x83DC;&#x9E1F;&#x6559;&#x7A0B;&#x4E2D;&#xFF0C;&#x6211;&#x4EEC;&#x63D0;&#x4F9B;&#x4E86;&#x5B8C;&#x6574;&#x7684; HTML &#x53C2;&#x8003;&#x624B;&#x518C;&#xFF0C;&#x5176;&#x4E2D;&#x5305;&#x62EC;&#x6807;&#x7B7E;&#x3001;&#x5C5E;&#x6027;&#x3001;&#x989C;&#x8272;&#x3001;&#x5B9E;&#x4F53;&#x7B49;&#x7B49;&#x3002;</p>
+<p>
+<a href="/tags/html-reference.html">HTML &#x6807;&#x7B7E;&#x53C2;&#x8003;&#x624B;&#x518C;</a>
+</p>			
+			
+			</div>
+		</div>
+		
+		<div class="previous-next-links">
+			<div class="previous-design-link"> </div>
+			<div class="next-design-link"><a href="http://www.runoob.com/html/html-intro.html" rel="next"> HTML &#x7B80;&#x4ECB;</a> &#x2192;</div>
+		</div>
+		
+		<div class="sidebar-box ad-box ad-box-large">
+		<div class="ad-336280" style="display: none;">
+			
+		</div>
+		</div>
+		
+	</div>
+</div>
+	
+
+<!-- 右边栏 -->
+</div>
+
