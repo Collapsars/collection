@@ -125,18 +125,33 @@ const handerData = async (value) =>{
       //let items = [];
     //  $ = $('script').remove();
     //  console.log("script",$.html());
-      let content = $('.main').html();
-      //console.log("a",a);
+      //var regtest = "http://www.runoob.com/try/try.php?filename=tryhtml_intro";
+      //console.log(regtest.replace(/^http:\/\/www.runoob.com/i,'.'));
 
+      $('.main a').each((index,ele) => {
+      //  if($(ele).attr('href'))
+        //console.log($(ele).replace(/^http:\/\/www.runoob.com/i,''));
+        let charnge = $(ele).attr('href').replace(/^http:\/\/www.runoob.com/i,'')
+        $(ele).attr('href', charnge);
+        console.log($(ele).attr('href')); 
+      })
+
+
+       let content = $('.main').html();
+       //await  fs.writeFile(`./data/10.txt`,content);
+       //console.log("a",content);
+      //
       let pathArray = value.split("/");
       let path = pathArray[pathArray.length - 1];
-      //console.log(path[path.length - 1]);      
+      //console.log(path[path.length - 1]);
       await models.Article.create({content:content,path:path});
       //fs.appendFileSync('./data/04.txt',a);
       //console.log("a",a);
 
+
+
     } catch (e) {
-      console.log("e",e);
+      //console.log("e",e);
     } finally {
 
 
@@ -144,7 +159,7 @@ const handerData = async (value) =>{
 
 }
 
-console.log("test");
+//console.log("test");
 
 url.map((value) => {
   //console.log("value",value);
